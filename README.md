@@ -26,6 +26,8 @@ This project focuses on identifying whether a financial transaction is fraudulen
 To implement this idea, I downloaded a real-world dataset from Kaggle:
 
 ### **PaySim – Synthetic Financial Dataset for Fraud Detection**
+Dataset Source kaggle:
+https://www.kaggle.com/datasets/ealaxi/paysim1
 
 This dataset simulates mobile financial transactions and includes information such as:
 
